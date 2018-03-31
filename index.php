@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 <div id="main-content">
-	<div class="container">
+	<div class="container hello">
 		<div id="content-area" class="clearfix">
 			<div id="left-area">
 		<?php
